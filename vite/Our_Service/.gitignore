@@ -1,0 +1,10 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore environment files
+.env
+
+# Add any other files or folders you want to ignore
+frontend/node_modules/
+backend/node_modules/
+frontend/.env
